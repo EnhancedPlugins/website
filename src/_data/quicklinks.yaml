@@ -1,2 +1,4 @@
----
 links:
+  - title: EnhancedPlugins
+    url: https://github.com/EnhancedPlugins/EnhancedRank
+    desc: Rank Plugin for LuckPerms with support of Minecraft 1.8 - 1.17.1
