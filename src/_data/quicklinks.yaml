@@ -3,3 +3,7 @@ links:
     url: https://github.com/EnhancedPlugins/EnhancedBungeeMOTD
     desc: BungeeCord plugin to display the subserver information as MOTD and player
       count when connecting over forced host.
+  - title: EnhancedCoordinates
+    url: https://github.com/EnhancedPlugins/EnhancedCoordinates
+    desc: EnhancedCoordinates is a coordinate plugin so display, send or broadcast
+      the executers location to other players on the server.
